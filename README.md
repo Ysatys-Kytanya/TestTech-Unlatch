@@ -1,34 +1,30 @@
 # TestTech-Unlatch
 **Q1: Pourriez vous citer un exemple de processus test agile en détaillant les différents types de tests à utiliser.**
-  **R1 :** 
-  Orienté Métier	
+  **R1 : Orienté Métier**	
        - Tests fonctionnels 
        - Tests exploratoires 
        - Tests de story 
 
 
 **Q2: Quelles sont les différences majeures entre la méthodologie de test agile et le cycle en V.**
-  **R2 :** 
-  Cycle en V : 
-        - Non itératif
-        - Peu de modification possible en cours de développement
-        - Documentation lourde en amont (description du besoin / cahier des charges)
-        - Toutes les fonctionnalités doivent êtres réalisées et testées avant la livraison finale du produit.
-        - Peu de communication entre les équipes et le client, manque de visibilité et de contrôle qualité tout le long d'un projet. 
+  **R2 : Cycle en V :**
+  - Non itératif
+  - Peu de modification possible en cours de développement
+  - Documentation lourde en amont (description du besoin / cahier des charges)
+  - Toutes les fonctionnalités doivent êtres réalisées et testées avant la livraison finale du produit.
+  - Peu de communication entre les équipes et le client, manque de visibilité et de contrôle qualité tout le long d'un projet. 
 
-  Méthodologie de test agile : 
-        - Itératif. Découpe de la réalisation du projet en différents sprints
-        - Plus de flexibilité si le besoin du client change en cours de projet 
-        - Documentation plus légère, elle s'adapte au fil du projet
-        - Livraison fractionnée. Les fonctionnalités sont développées suivant un ordre de priorité donné en début de projet
-        - La communication est continuelle entre les équipes et le client, le contrôle qualité est précoce et le client peu grâce à la livraison fractionnée tester son produit.
+  **R2 : Méthodologie de test agile :**
+  - Itératif. Découpe de la réalisation du projet en différents sprints
+  - Plus de flexibilité si le besoin du client change en cours de projet 
+  - Documentation plus légère, elle s'adapte au fil du projet
+  - Livraison fractionnée. Les fonctionnalités sont développées suivant un ordre de priorité donné en début de projet
+  - La communication est continuelle entre les équipes et le client, le contrôle qualité est précoce et le client peu grâce à la livraison fractionnée tester son produit.
 
 
 **Q3-a : Pourriez vous élaborer une stratégie de test , en détaillant les exigences de tests sur les différents modules.** 
-  **R3-a :** 
-**Plan de test - V1.0 : Amélioration des modules Inscription / Connexion**
-Rappel des fonctionnalités embarquées : 
-Les évolutions comprennent :
+  **R3-a : Plan de test - V1.0 : Amélioration des modules Inscription / Connexion**
+Rappel des fonctionnalités embarquées : Les évolutions comprennent :
 - Evolution du module de connexion
 - Modification du module d'inscription 
 - Evolution du compte utilisateur (partie mot de passe)
