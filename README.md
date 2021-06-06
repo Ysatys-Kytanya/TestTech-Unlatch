@@ -1,5 +1,6 @@
 # TestTech-Unlatch
 **Q1: Pourriez vous citer un exemple de processus test agile en détaillant les différents types de tests à utiliser.**
+
   **R1 : Orienté Métier**	
        - Tests fonctionnels 
        - Tests exploratoires 
@@ -7,6 +8,7 @@
 
 
 **Q2: Quelles sont les différences majeures entre la méthodologie de test agile et le cycle en V.**
+
   **R2 : Cycle en V :**
   - Non itératif
   - Peu de modification possible en cours de développement
@@ -23,6 +25,7 @@
 
 
 **Q3-a : Pourriez vous élaborer une stratégie de test , en détaillant les exigences de tests sur les différents modules.** 
+
   **R3-a : Plan de test - V1.0 : Amélioration des modules Inscription / Connexion**
 Rappel des fonctionnalités embarquées : Les évolutions comprennent :
 - Evolution du module de connexion
@@ -75,6 +78,7 @@ la non regression de cette partie.
 
 **Q3-b : Pourriez vous rédiger trois scénarios de tests qui couvrent la fonctionnalité critique de l'application.**
 **R3-b :** 
+
 SCN 1 : Se connecter suite à une création de compte 
  Test 1 : Réceptionner l'email de confirmation de création de compte
  Test 2 : Vérifier la connexion à la plateforme depuis l'email
@@ -90,6 +94,7 @@ SCN 3 : Vérifier les changements de paramètres
  Test 3 : Se connecter avec les bon identifiants
  
  **Q4 : Tests automatiques**
+ 
  **R4 :** 
  SCN 2 : Module Connexion 
  Email : ysatys.kytanya@gmail.com 
