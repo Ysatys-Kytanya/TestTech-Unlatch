@@ -2,9 +2,9 @@
 **Q1: Pourriez vous citer un exemple de processus test agile en détaillant les différents types de tests à utiliser.**
   **R1 :** 
   Orienté Métier	
-        Tests fonctionnels 
-        Tests exploratoires 
-        Tests de story 
+       - Tests fonctionnels 
+       - Tests exploratoires 
+       - Tests de story 
 
 
 **Q2: Quelles sont les différences majeures entre la méthodologie de test agile et le cycle en V.**
