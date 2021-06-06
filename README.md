@@ -98,10 +98,5 @@ SCN 3 : Vérifier les changements de paramètres
  **Q4 : Tests automatiques**
  
  **R4 :** 
- 
- SCN 2 : Module Connexion 
- Email : ysatys.kytanya@gmail.com 
- Mdp : abc
- 
  Selenium IDE
 
