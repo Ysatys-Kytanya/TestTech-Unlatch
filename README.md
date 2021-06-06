@@ -27,6 +27,7 @@
 **Q3-a : Pourriez vous élaborer une stratégie de test , en détaillant les exigences de tests sur les différents modules.** 
 
   **R3-a : Plan de test - V1.0 : Amélioration des modules Inscription / Connexion**
+  
 Rappel des fonctionnalités embarquées : Les évolutions comprennent :
 - Evolution du module de connexion
 - Modification du module d'inscription 
@@ -77,6 +78,7 @@ Cette version ne prevoit pas de tester dans un premier temps la partie documents
 la non regression de cette partie.
 
 **Q3-b : Pourriez vous rédiger trois scénarios de tests qui couvrent la fonctionnalité critique de l'application.**
+
 **R3-b :** 
 
 SCN 1 : Se connecter suite à une création de compte 
@@ -96,6 +98,7 @@ SCN 3 : Vérifier les changements de paramètres
  **Q4 : Tests automatiques**
  
  **R4 :** 
+ 
  SCN 2 : Module Connexion 
  Email : ysatys.kytanya@gmail.com 
  Mdp : abc
